@@ -51,3 +51,5 @@ In the current book series, most likely canon, there's this AI called Mimic1, wh
 Now in Security Breach (possibly 2035), Gregory, out of Glitchtrap's control, had to escape being trapped in the Pizzaplex, as all the robots controlled by Glitchtrap and Vanny wanted to kill him. With the help of Glamrock Freddy, most likely haunted by someone, though it's unknown who, Greg ended up finding a newly built Springtrap in the simulated Freddy's and somehow defeating it. There's also a giant abomination of wires that resambles the Funtime amalgam down there, it took this William away.
 
 This is pretty much where we are now, in gross oversimplification.
+
+-Nova_Z
