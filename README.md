@@ -5,6 +5,9 @@ Fnaf Haxeflixel, There is a opensource here.
 
 
 # FNAF Lore
+
+![icon](https://github.com/user-attachments/assets/addbd0c7-5a39-4b93-8cf4-1874563801af)
+
 Lets go to da lore.
 
 William Afton and Henry Emily opened a restaurant around the early 70s, named Fredbear's Family Diner, which quickly evolved into a chain of restaurants known as "Freddy Fazbear's Pizza," started in 1983, under the company of Fazbear Entertainment, Inc. At some point, both of them left the company, with an unknown individual taking over as CEO.
